@@ -49,6 +49,9 @@ TRANSLATIONS = {
     u'auboulot': u'unpause',
     u'barrage': u'wait',
     u'socialistes': u'ps',
+    u'aide': u'help',
+    u'monte-le-son': u'volume',
+    u'récipient': u'container',
     # Options
     u'--aide': u'--help',
     u'--graffiti': u'--tag',
